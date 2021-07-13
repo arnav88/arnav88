@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arnav Shah</h1>
 <h3 align="center">AI and Machine Learning enthusiast who wishes to pursue a career in the field of AI and expand my knowledge in my profession</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav88&label=Visitors&color=0182f4&style=plastic" alt="arnav88" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav88" alt="arnav88" /></a> </p>
+
 - 🌱 I’m currently learning **Python and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arnav88?tab=repositories](https://github.com/arnav88?tab=repositories)
