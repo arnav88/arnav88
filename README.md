@@ -1,4 +1,4 @@
-<img align="right" alt="Code" src="https://github.com/arnav88/arnav88/blob/main/Simple%20Work%20LinkedIn%20Banner.png" width="1100" height="300" />
+<img align="right" alt="Code" src="https://github.com/arnav88/arnav88/blob/main/Simple%20Work%20LinkedIn%20Banner.png" width="1200" height="300" />
 <h1 align="center">Hi 👋, I'm Arnav Shah</h1>
 <h3 align="center">AI and Machine Learning enthusiast who wishes to pursue a career in the field of AI and expand my knowledge in my profession</h3>
 
