@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **arnavshah8888@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/KOb8uV3DB](https://resume.io/r/KOb8uV3DB)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1Lc0EvPwib6icJ2qD1F5nYqqZr38TNa0a/view?usp=sharing)
 
 - ⚡ Fun fact **One thing I cannot live without is Music**
 
