@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav88&label=Visitors&color=0182f4&style=plastic" alt="arnav88" /> </p>
 
-- 🌱 I’m currently learning **Python and Machine Learning**
+- 🌱 I’m currently learning **Python,Machine Learning,Java and DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arnav88?tab=repositories](https://github.com/arnav88?tab=repositories)
 
 - 📫 How to reach me **arnavshah8888@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1Lc0EvPwib6icJ2qD1F5nYqqZr38TNa0a/view?usp=sharing)
+- 📄 *Resume* (https://drive.google.com/file/d/1Lc0EvPwib6icJ2qD1F5nYqqZr38TNa0a/view?usp=sharing)
 
 - ⚡ Fun fact **One thing I cannot live without is Music**
 
